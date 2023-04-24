@@ -1,7 +1,7 @@
 # RedComm Back-end
 
 Required application :
-[Composer](https://getcomposer.org), [Node (LTS)](https://nodejs.org/en)
+[Composer](https://getcomposer.org), [Node (LTS)](https://nodejs.org/en), [Postman](https://www.postman.com/downloads/)
 
 ## Before Starting the App
 
